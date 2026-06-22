@@ -136,7 +136,9 @@ STUDIO_BOOKING
 
 # Author
 
-Nama : Erlyn Destantya
+Nama : Erlyn Destantya Dewi     141241006
+       Zahra Salsabila          141241011
+       Annisa Athiyyatul Husna  141241035
 
 Mata Kuliah : Cloud Computing
 
